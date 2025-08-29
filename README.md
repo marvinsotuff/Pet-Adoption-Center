@@ -18,7 +18,7 @@ This project is a simple **Python CLI application** backed by **SQLite3** for da
 
 ---
 
-## Tech Stack
+##  Tech Stack
 - **Python 3**
 - **SQLite3** (built-in, no extra dependencies)
 
@@ -26,7 +26,8 @@ This project is a simple **Python CLI application** backed by **SQLite3** for da
 
 ##  How to Run
 1. Make sure you have **Python 3** installed.  
-2. Run the CLI:  
+2. Run the CLI from the project root directory:  
 
    ```bash
    python cli.py
+
